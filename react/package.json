@@ -16,7 +16,9 @@
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.22.0"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC"
